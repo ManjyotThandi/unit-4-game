@@ -34,12 +34,13 @@ function placeintags() {
 // the value used for attribute is the random number generated
 function crystals() {
     var colors = ["Blue", "Red", "Green", "Yellow"]
-    colors.forEach(function (i) {
+    colors.forEach(function (i) {   
         var crystalcolor = $("<button>")
         crystalcolor.addClass('Btn')
         crystalcolor.attr("id", i)
         crystalcolor.attr("value", Math.floor(Math.random() * 12))
-        $(crystalcolor).text(i)
+        //No longer need this as the images will take place of text
+        //$(crystalcolor).text(i)
         $("#buttons").append(crystalcolor)
     })
 }

@@ -1,0 +1,83 @@
+.body {
+    background-image: url(../images/old-grunge-cement-wall-backgrounds_34552-195.jpg)
+}
+
+.container { 
+     margin-top: 5px;
+     background-image: url(../images/pexels-photo-1308624.jpeg)
+} 
+
+.Instructions {
+    background-color:#2F4F4F;
+    color:white;
+    padding-bottom: 40px;
+}
+
+.winsLosses {
+    margin-top: 100px;
+    background-color:white
+}
+.score {
+    margin-top: 5px;
+    background-color:white
+}
+
+.score {
+    padding-bottom: 0px;
+    background-color: #2F4F4F;
+    color:white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.winsLosses {
+    background-color: #2F4F4F;
+    color:white;
+    text-align: center;
+    font-size: 25px;
+}
+
+#Header {
+    text-align: center;
+    background-color:#2F4F4F;
+    color: white
+}
+
+#randomnum {
+    background-color: #2F4F4F;
+    color: white;
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size:30px
+}
+
+#Blue {
+    width : 100px;
+    height: 100px;
+    background-image: url(../images/unnamed.jpg)
+}
+
+#Red {
+    width: 100px;
+    height:100px;
+    background-image: url(../images/417-mhmVkkL._SL500_AC_SS100_\ \(1\).jpg)
+}
+
+#Green {
+    width: 100px;
+    height:100px;
+    background-image: url(../images/GreenDiamond.gif)
+}
+
+#Yellow {
+    width: 100px;
+    height:100px;
+    background-image: url(../images/Yellow-Diamond-100ct-Natural-Loose-Fancy-Vivid-Yellow-Canary-GIA-VVS2-264142766573-100x100.jpg)
+}
+
+#buttons {
+    padding-left: 70px;
+    margin-top: 10px;
+}
